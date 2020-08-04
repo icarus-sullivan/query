@@ -1,5 +1,5 @@
 {
-  "name": "@sullivan/json-query",
+  "name": "@sullivan/query",
   "version": "0.0.1",
   "description": "Query syntax to find items in json arrays",
   "main": "index.js",
