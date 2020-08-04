@@ -1,0 +1,26 @@
+{
+  "name": "@sullivan/json-query",
+  "version": "0.0.1",
+  "description": "Query syntax to find items in json arrays",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/icarus-sullivan/sullivan-json-query.git"
+  },
+  "keywords": [
+    "find",
+    "search",
+    "query",
+    "get",
+    "iterate"
+  ],
+  "author": "Chris Sullivan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/icarus-sullivan/sullivan-json-query/issues"
+  },
+  "homepage": "https://github.com/icarus-sullivan/sullivan-json-query#readme"
+}
